@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rubikstraining/static/css/main.2cce8147.chunk.css",
-    "main.js": "/rubikstraining/static/js/main.fad71548.chunk.js",
-    "main.js.map": "/rubikstraining/static/js/main.fad71548.chunk.js.map",
+    "main.js": "/rubikstraining/static/js/main.00a1bdeb.chunk.js",
+    "main.js.map": "/rubikstraining/static/js/main.00a1bdeb.chunk.js.map",
     "runtime~main.js": "/rubikstraining/static/js/runtime~main.b23cbf7b.js",
     "runtime~main.js.map": "/rubikstraining/static/js/runtime~main.b23cbf7b.js.map",
     "static/js/2.2fb2e43c.chunk.js": "/rubikstraining/static/js/2.2fb2e43c.chunk.js",
     "static/js/2.2fb2e43c.chunk.js.map": "/rubikstraining/static/js/2.2fb2e43c.chunk.js.map",
     "index.html": "/rubikstraining/index.html",
-    "precache-manifest.e6c6d5c1e507da5284e15776077ef245.js": "/rubikstraining/precache-manifest.e6c6d5c1e507da5284e15776077ef245.js",
+    "precache-manifest.20bb4b3748895abc1552e0bf60b820ce.js": "/rubikstraining/precache-manifest.20bb4b3748895abc1552e0bf60b820ce.js",
     "service-worker.js": "/rubikstraining/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/rubikstraining/static/css/main.2cce8147.chunk.css.map"
   }
