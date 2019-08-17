@@ -23,12 +23,12 @@ function App() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
             <Nav.Link href="/rubikstraining/">Home</Nav.Link>
-            <Nav.Link href="/training">Training</Nav.Link>
+            <Nav.Link href="/rubikstraining/training">Training</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
       <Route exact path="/rubikstraining/" component={Combinations} />
-      <Route path="/rubikstraining/training" component={Training} />
+      <Route exact path="/rubikstraining/training" component={Training} />
       </Router>
     </div>
   );
