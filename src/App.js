@@ -22,13 +22,13 @@ function App() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="/rubikstraining/">Home</Nav.Link>
             <Nav.Link href="/training">Training</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
-      <Route exact path="/" component={Combinations} />
-      <Route path="/training" component={Training} />
+      <Route exact path="/rubikstraining/" component={Combinations} />
+      <Route path="/rubikstraining/training" component={Training} />
       </Router>
     </div>
   );
